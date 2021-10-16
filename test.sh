@@ -1,4 +1,4 @@
 echo "hellow world"
-read -p "enter the fisr value"
-read -p "enter second value"
+a=read -p "enter the fisr value"
+b=read -p "enter second value"
 if $a == 5;
